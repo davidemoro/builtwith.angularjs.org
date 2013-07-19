@@ -1609,6 +1609,24 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Knight's tour problem",
+      "thumb": "tour-knight-angularjs/thumb.jpg",
+      "desc": "This is a simple hello world application built with AngularJS. Init a chessboard and try to solve the Knight's tour problem. This application does not provide an auto-solve feature but it is already implemented an heuristic data structure that will help you to write a simple and recursive routine with performance in mind",
+      "url": "http://davidemoro.github.io/tour_knight_angularjs",
+      "info": "http://davidemoro.blogspot.it/2013/07/angularjs-hello-world-app-knights-tour.html",
+      "src": "https://github.com/davidemoro/tour_knight_angularjs/",
+      "submitter": "davidemoro",
+      "submissionDate": "2013-07-20",
+      "tags": [
+        "Toy",
+        "Game",
+        "Entertainment",
+        "jQuery",
+        "Tests Included",
+        "Open Source"
+      ]
     }
   ]
 }
